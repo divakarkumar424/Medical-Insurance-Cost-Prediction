@@ -10,9 +10,10 @@ Problem Statement
 Understanding the relation between the various factor like bmi, number of children or smoker affecting the Hosiptalization charges. Predicting the hospitalization by understanding patterns from other parameters.
 ----
 <img src="https://user-images.githubusercontent.com/32620288/193653781-6108c432-1ec6-43d2-93eb-a488b01de508.png" >
--------
 
+------------------
 ### Dataset information:
+
 age : age of primary beneficiary
 sex : insurance contractor gender, female, male
 bmi : Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
