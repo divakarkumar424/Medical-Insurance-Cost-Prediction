@@ -7,7 +7,9 @@
   * [Technologies Used](#technologies-used)
 
 Problem Statement 
+
 Understanding the relation between the various factor like bmi, number of children or smoker affecting the Hosiptalization charges. Predicting the hospitalization by understanding patterns from other parameters.
+
 ----
 <img src="https://user-images.githubusercontent.com/32620288/193653781-6108c432-1ec6-43d2-93eb-a488b01de508.png" >
 
